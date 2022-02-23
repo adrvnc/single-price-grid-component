@@ -25,14 +25,15 @@ h3 {
 	 color: hsl(218, 22%, 67%);
 }
 
-.custom {
-	width: 75% !important;
+.custom-btn {
+	width: 85% !important;
 	background: hsl(71, 73%, 54%) !important;
 	color: #fff !important;
+	transition: all .2s ease-in-out !important;
 }
 
-.custom:hover {
-	background: #a6d608 !important;
+.custom-btn:hover {
+	transform: scale(1.05) !important;
 }
 
 #column1 {
@@ -43,7 +44,7 @@ h3 {
 	 background-color: #4abebd;
 }
 
-.bigger {
+.bigger-number {
 	font-size: 2em;
 	color: #fff;
 }
