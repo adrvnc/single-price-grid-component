@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Manrope&display=swap');
+
+* {
+	font-family: 'Karla', sans-serif;
+}
+
+body {
+    background-color: hsl(204, 43%, 93%) !important;
+} 
+
+.card {
+	margin: 100px auto;
+	width: 42rem;
+}
+
+h3 {
+	color: hsl(179, 62%, 43%);
+}
+
+#subtitle {
+	 color: hsl(71, 73%, 54%);
+}
+
+.call-to-action {
+	 color: hsl(218, 22%, 67%);
+}
+
+.custom {
+	width: 75% !important;
+	background: hsl(71, 73%, 54%) !important;
+	color: #fff !important;
+}
+
+.custom:hover {
+	background: #a6d608 !important;
+}
+
+#column1 {
+	 background: hsl(179, 62%, 43%);
+}
+
+#column2 {
+	 background-color: #4abebd;
+}
+
+.bigger {
+	font-size: 2em;
+	color: #fff;
+}
+
+.price {
+	 color:hsla(203, 44%, 93%, 0.6);
+}
+
+.custom-list {
+	 color:hsla(203, 44%, 93%, 0.6);
+}
+
