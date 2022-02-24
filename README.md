@@ -28,7 +28,7 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 ### Screenshot
 
-![Price Grid](price-grid.jpg)
+![Price Grid](images/price-grid.jpg)
 
 ### Links
 
