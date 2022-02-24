@@ -46,7 +46,7 @@ Users should be able to:
 ### What I Learned 
 
 I figured out how to override Bootstrap CSS styles by using the 
-`!important` property; I created custom styles for the "sign up" 
+`!important` rule; I created custom styles for the "sign up" 
 button and the background color using that method. 
 ### Continued Development 
 
